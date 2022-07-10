@@ -1,0 +1,21 @@
+name: efficientleaf
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - setuptools==59.5.0
+  - numpy
+  - tqdm
+  - tensorboard
+  - pytorch::pytorch=1.10.0
+  - pytorch::torchvision
+  - pytorch::torchaudio
+  - pip:
+      - tensorflow-datasets
+      - efficientnet_pytorch
+      - PySoundFile
+      - soundfile
