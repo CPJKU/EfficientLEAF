@@ -1,6 +1,6 @@
 #  EfficientLEAF: A Faster LEarnable Audio Frontend of Questionable Use
 - Authors: Jan Schlüter, Gerald Gutenbrunner
-- Paper: [LINK TO PAPER]
+- Paper: https://arxiv.org/abs/2207.05508
 
 This is the official PyTorch implementation for our EUSIPCO 2022 paper "EfficientLEAF: A Faster LEarnable Audio Frontend of Questionable Use".
 
